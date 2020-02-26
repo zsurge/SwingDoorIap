@@ -1,0 +1,12 @@
+#忽略SI目录
+/SwingDoorIap/SwingDoorIap.si4project
+
+#忽略BIN下所有文件
+/SwingDoorIap/6Bin/*
+
+#忽略MDK_PRO下所有文件
+/SwingDoorIap/MDK_PRO/*
+!/SwingDoorIap/MDK_PRO/SwingDoorIap.uvprojx
+!/SwingDoorIap/MDK_PRO/AutoRenameByVersion.exe
+
+/SwingDoorIap/keilkilll.bat
